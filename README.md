@@ -4,7 +4,7 @@
 
 Customer churn prediction is a critical task for businesses aiming to retain their customers. This project applies machine learning techniques to predict customer churn using various classification models.
 
-Technologies Used
+# Technologies Used
 
 Programming Language: Python
 
@@ -22,12 +22,8 @@ imblearn - Handling imbalanced datasets (SMOTE)
 
 xgboost - Gradient boosting algorithm
 
-Dataset
 
-The dataset contains customer details, service usage, and whether they have churned (left the service). It includes categorical and numerical features that need preprocessing before modeling.
-
-
-Data Preprocessing
+# Data Preprocessing
 
 Load the dataset using pandas.
 
@@ -39,9 +35,9 @@ Balance the dataset using SMOTE (Synthetic Minority Over-sampling Technique).
 
 Split the dataset into training and testing sets.
 
-Machine Learning Models Used
+# Machine Learning Models Used
 
-The following models are used for predicting churn:
+## The following models are used for predicting churn:
 
 Decision Tree Classifier
 
@@ -51,7 +47,7 @@ XGBoost Classifier
 
 Model Evaluation
 
-The models are evaluated using:
+## The models are evaluated using:
 
 Accuracy Score
 
