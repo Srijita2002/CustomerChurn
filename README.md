@@ -14,38 +14,31 @@ Libraries:
 
 * pandas - Data manipulation
 
-matplotlib, seaborn - Data visualization
+* matplotlib, seaborn - Data visualization
 
-sklearn - Machine learning utilities
+* sklearn - Machine learning utilities
 
-imblearn - Handling imbalanced datasets (SMOTE)
+* imblearn - Handling imbalanced datasets (SMOTE)
 
-xgboost - Gradient boosting algorithm
+* xgboost - Gradient boosting algorithm
 
 
 # Data Preprocessing
 
-Load the dataset using pandas.
-
-Handle missing values.
-
-Encode categorical variables using LabelEncoder.
-
-Balance the dataset using SMOTE (Synthetic Minority Over-sampling Technique).
-
-Split the dataset into training and testing sets.
+* Load the dataset using pandas.
+* Handle missing values.
+* Encode categorical variables using LabelEncoder.
+* Balance the dataset using SMOTE (Synthetic Minority Over-sampling Technique).
+* Split the dataset into training and testing sets.
 
 # Machine Learning Models Used
 
 ## The following models are used for predicting churn:
 
-Decision Tree Classifier
-
-Random Forest Classifier
-
-XGBoost Classifier
-
-Model Evaluation
+* Decision Tree Classifier
+* Random Forest Classifier
+* XGBoost Classifier
+* Model Evaluation
 
 ## The models are evaluated using:
 
