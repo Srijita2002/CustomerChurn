@@ -10,9 +10,9 @@ Programming Language: Python
 
 Libraries:
 
-numpy - Numerical computing
+* numpy - Numerical computing
 
-pandas - Data manipulation
+* pandas - Data manipulation
 
 matplotlib, seaborn - Data visualization
 
